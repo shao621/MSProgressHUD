@@ -1,0 +1,23 @@
+PODS:
+  - MBProgressHUD (1.1.0)
+  - MSProgressHUD (0.1.0):
+    - MBProgressHUD (~> 1.1.0)
+
+DEPENDENCIES:
+  - MSProgressHUD (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - MBProgressHUD
+
+EXTERNAL SOURCES:
+  MSProgressHUD:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  MSProgressHUD: f1f74c8cf45f71e0b96453e12f9162a25e145e58
+
+PODFILE CHECKSUM: 2f14b70055ee91cedc80e7a0411423c93d5c649b
+
+COCOAPODS: 1.8.4

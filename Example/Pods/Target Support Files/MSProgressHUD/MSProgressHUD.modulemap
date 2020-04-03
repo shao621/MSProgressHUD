@@ -1,0 +1,6 @@
+framework module MSProgressHUD {
+  umbrella header "MSProgressHUD-umbrella.h"
+
+  export *
+  module * { export * }
+}
